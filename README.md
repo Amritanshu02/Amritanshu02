@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Amritanshu02
+  # Hi, I am Amritanshu👋
+  A bit about myself, I am Amritanshu and I am currently pursuing my Computer Science Degree from Babu Banarasi Das Institute of Technology and Management. I am a passionate web developer and am currently looking up for opportunities to learn and grow more. I am an enthusiastic individual who likes to take up new challenges.
 - 👀 I’m interested in coding,open source,blockchain and various others.
 - 🌱 I’m currently learning Frontend.
 - 💞️ I’m looking to collaborate on ...
