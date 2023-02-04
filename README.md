@@ -26,7 +26,7 @@
 <img alt"Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<h1 align="center">Let's Get Connected </h1>
+<h1 align="center">Let's Get Connected :busts_in_silhouette:</h1>
 
 <div align="center">
 
