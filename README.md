@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Amritanshu 👋</h1>
 <!-- # Hi, I am Amritanshu👋 -->
-  A bit about myself, I am Amritanshu and I am currently pursuing my Computer Science Degree from <b>Babu Banarasi Das Institute of Technology and Management</b>. I am a passionate <b>Web Developer</b> and am currently looking up for opportunities to learn and grow more. I am an enthusiastic individual who likes to take up new challenges.
+  A bit about myself, I am Amritanshu and I am currently working as a <b>Backend Engineer</b> at <b>Tata Consultancy Services</b>. I had completed my Bachelors degree in Computer Science and Engineering from <b>Dr. APJ Abdul Kalam Technical University</b>. I am a passionate <b>Web Developer</b> and am currently looking up for opportunities to learn and grow more. I am an enthusiastic individual who likes to take up new challenges.
   
 - 👀 I’m interested in coding, open source, blockchain and various others.
 - 🌱 I’m currently learning Full Stack.
